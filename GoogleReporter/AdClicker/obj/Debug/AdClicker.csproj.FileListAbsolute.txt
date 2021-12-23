@@ -1,0 +1,45 @@
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\bin\Debug\AdClicker.exe.config
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\bin\Debug\AdClicker.exe
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\bin\Debug\AdClicker.pdb
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\obj\Debug\AdClicker.csproj.AssemblyReference.cache
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\obj\Debug\AdClicker.Form1.resources
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\obj\Debug\AdClicker.Properties.Resources.resources
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\obj\Debug\AdClicker.csproj.GenerateResource.cache
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\obj\Debug\AdClicker.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\obj\Debug\AdClicker.csproj.CopyComplete
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\obj\Debug\AdClicker.exe
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\obj\Debug\AdClicker.pdb
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\bin\Debug\WebDriver.dll
+C:\Users\Yunus Yavuz\source\repos\AdClicker\AdClicker\bin\Debug\WebDriver.xml
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\bin\Debug\WebDriver.dll
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\bin\Debug\WebDriver.xml
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\obj\Debug\AdClicker.csproj.AssemblyReference.cache
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\obj\Debug\AdClicker.Form1.resources
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\obj\Debug\AdClicker.csproj.GenerateResource.cache
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\obj\Debug\AdClicker.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\obj\Debug\AdClicker.csproj.CopyComplete
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\bin\Debug\SMSAutomation.exe.config
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\bin\Debug\SMSAutomation.exe
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\bin\Debug\SMSAutomation.pdb
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\obj\Debug\SMSAutomation.Properties.Resources.resources
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\obj\Debug\SMSAutomation.exe
+C:\Users\Yunus Yavuz\source\repos\SMSAutomation\AdClicker\obj\Debug\SMSAutomation.pdb
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\bin\Debug\WebDriver.dll
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\bin\Debug\WebDriver.xml
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\obj\Debug\AdClicker.Form1.resources
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\obj\Debug\AdClicker.csproj.GenerateResource.cache
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\obj\Debug\AdClicker.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\obj\Debug\AdClicker.csproj.CopyComplete
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\obj\Debug\AdClicker.csproj.AssemblyReference.cache
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\bin\Debug\Google Şikayet Edici.exe.config
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\bin\Debug\Google Şikayet Edici.exe
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\bin\Debug\Google Şikayet Edici.pdb
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\obj\Debug\GoogleReporter.Properties.Resources.resources
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\obj\Debug\Google Şikayet Edici.exe
+C:\Users\Yunus Yavuz\source\repos\GoogleReporter\AdClicker\obj\Debug\Google Şikayet Edici.pdb
